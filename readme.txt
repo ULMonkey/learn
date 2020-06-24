@@ -1,6 +1,5 @@
-git is a distributed version control system.
-git is free software distributed under the GPL.
-git has a mutable index called staga.
-git traks changes of files.
-creating a new branch is quick and simple.
-add merge.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called staga.
+Git traks changes of files.
+Creating a new branch is quick and simple.
