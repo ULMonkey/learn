@@ -4,3 +4,4 @@ git has a mutable index called staga.
 git traks changes of files.
 creating a new branch is quick and simple.
 add merge.
+add 2
